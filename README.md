@@ -7,10 +7,12 @@
 
 <br>
 
-<p> Status 200 </>
+<p> Status 200 Ok </>
  
- ![200Ok](https://github.com/Jacob-dvlp/testeseletivoboleto/blob/master/status%20200.png)
+ ![status 200Ok](https://github.com/Jacob-dvlp/testeseletivoboleto/blob/master/status%20200.png)
 
+ <p> Status </p>
+ ![status 400] (https://github.com/Jacob-dvlp/testeseletivoboleto/blob/master/status%20400.png)
 ## 📚 Endpoint da API.
 
  ⚙ boleto/ <br>
