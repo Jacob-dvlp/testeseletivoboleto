@@ -14,6 +14,10 @@
  <p> Status 400 </p>
  
  ![status 400](https://github.com/Jacob-dvlp/testeseletivoboleto/blob/master/status%20400.png) <br>
+ 
+ <p> Status 404 </p>
+ 
+ ![status 404](https://github.com/Jacob-dvlp/testeseletivoboleto/blob/master/status%20404.png) <br>
 ## 📚 Endpoint da API.
 
  ⚙ boleto/ <br>
