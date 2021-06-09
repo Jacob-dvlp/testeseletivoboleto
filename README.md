@@ -3,7 +3,7 @@
 
 <b>Objectivo dessa API </b>   
 
-<p> É uma API que faz a verficação se o código é valido ou não </p>
+<p> É uma API que faz a verficação se o código de barra é valido ou não </p>
 
 <br>
 
