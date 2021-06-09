@@ -7,7 +7,7 @@
 
 <br>
 
-<p> Status 200 Ok </>
+<p> Status 200 Ok </p>
  
  ![status 200Ok](https://github.com/Jacob-dvlp/testeseletivoboleto/blob/master/status%20200.png)
 
