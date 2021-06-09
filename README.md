@@ -20,7 +20,7 @@
  ![status 404](https://github.com/Jacob-dvlp/testeseletivoboleto/blob/master/status%20404.png) <br>
 ## 📚 Endpoint da API.
 
- ⚙ boleto/ <br>
+ ⚙ localhost:8080/boleto/ <br>
  
 <br>
 ## 🛠⚙ Tecnologias utilizadas
